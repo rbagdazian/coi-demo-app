@@ -18,6 +18,8 @@ function App() {
           Hello World from React!
           <br />
           This is pretty cool!
+          <br />
+          Git Hub is now connected!
         </a>
       </header>
     </div>
