@@ -20,6 +20,8 @@ function App() {
           This is pretty cool!
           <br />
           Git Hub is now connected!
+          <br />
+          Ci/Cd is working!
         </a>
       </header>
     </div>
